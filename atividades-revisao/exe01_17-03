@@ -1,0 +1,13 @@
+# A professora Clara dá aula de reforço, e na segunda-feira foram apenas 4 alunos para a aula, 
+# Fernando de 11 anos, Letícia de 8 anos, Matheus de 17 anos e Mariana de 4 anos. 
+# Tia Clara quer calcular a média da idade dos alunos, como ela faria isso num programa para que o resultado saia na tela?
+
+idadeFernando = 11
+idadeLetícia = 8
+idadeMatheus = 17
+idadeMariana = 4
+
+media = (idadeFernando + idadeLetícia + idadeMatheus + idadeMariana) / 4
+
+print('A média de idade dos alunos é {} anos.' .format(media))
+
